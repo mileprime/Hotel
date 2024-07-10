@@ -30,10 +30,10 @@ class UsersTableSeeder extends Seeder
             //User
 
             [
-                'name' => 'Admin',
-                'email' => 'users@gmail.com',
+                'name' => 'User',
+                'email' => 'user@gmail.com',
                 'password' => Hash::make('password'),
-                'role' => 'admin',
+                'role' => 'user',
                 'status' => 'active',
             ],
 

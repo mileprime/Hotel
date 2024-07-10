@@ -6,6 +6,7 @@ Migrate
 Seed The Database With admin and user
 create controller and view for admin create method
 views created in admin folder admin/admin_dashboard
+include simple html in admin/dashboard view
 update the route and give it a name
 update Authentication session controller with dynamic url 
 to check if user is admin or user
